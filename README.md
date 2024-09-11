@@ -1,3 +1,3 @@
 # Simon-Game
-check out here 👇
+check out here 👉
 https://sundarsinghbisht.github.io/Simon-Game/
